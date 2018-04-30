@@ -15,4 +15,13 @@ who have applied within a particular time frame using Calender api of Android fo
 - An Android device.
 - Internet Connection.
 
+# Usages
+- Main Activity
+![alt text](https://github.com/Hkaps1997/Pilot-Recruitment-MIS/blob/master/Screenshot_2017-08-22-18-56-51-609_com.example.harshit.mymis.png)
+
+- Selecting date through Calender
+![alt text](https://github.com/Hkaps1997/Pilot-Recruitment-MIS/blob/master/Screenshot_2017-08-22-18-57-02-967_com.example.harshit.mymis.png)
+
+- Viewing the details
+![alt text](https://github.com/Hkaps1997/Pilot-Recruitment-MIS/blob/master/Screenshot_2017-08-22-18-57-25-620_com.example.harshit.mymis%20(1).png)
 
